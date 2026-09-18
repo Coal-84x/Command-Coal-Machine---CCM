@@ -6,3 +6,7 @@ Command Coal Machine were capable of interacting with your PC, but use it carefu
 exiting program
 ### print
 printing a text of string (Doesn't support calculation yet)
+### help
+display commands with their functionality
+### update
+display the updates / displaying the latest feature or updates
