@@ -3,7 +3,8 @@ Command Coal Machine is more superior than CVM++ with more organized work and re
 Command Coal Machine were capable of interacting with your PC, but use it carefully, any damage we're not responsible for it.
 
 Command Coal Machine were still within heavy development and pre-alpha version, we do not recommend you to use the older Console
-as it maybe a risk to your computer and very unstable.
+as it maybe a risk to your computer and very unstable. We do not use data collector and feel free to make a feedback through the
+console.
 ## Command Lines
 ### exit
 exiting program
@@ -15,3 +16,5 @@ display commands with their functionality
 display the updates / displaying the latest feature or updates
 ### tick
 reconfigure tick of the console in millisecond
+### feedback
+sent feedback directly towards our database
