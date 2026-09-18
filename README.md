@@ -13,3 +13,5 @@ printing a text of string (Doesn't support calculation yet)
 display commands with their functionality
 ### update
 display the updates / displaying the latest feature or updates
+### tick
+reconfigure tick of the console in millisecond
